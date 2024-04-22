@@ -25,7 +25,8 @@ while True:
         continue
     else:
         c.close()
-        break```
+        break
+```
 ##SERVER
 ```PY
 import socket
@@ -33,7 +34,8 @@ s=socket.socket()
 s.connect(('localhost', 8000))
 while True:
     print(s.recv(1024).decode())
-    s.send("Acknowledgement Recived".encode())```
+    s.send("Acknowledgement Recived".encode())
+```
 
 ## OUTPUT
 ##CLIENT OUTPUT
