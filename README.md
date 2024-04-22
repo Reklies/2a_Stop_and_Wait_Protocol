@@ -39,8 +39,11 @@ while True:
 
 ## OUTPUT
 ##CLIENT OUTPUT
+
 ![client](https://github.com/Reklies/2a_Stop_and_Wait_Protocol/assets/147139232/9630e2f2-10e1-4112-9693-4050fcdd331e)
+
 ##SERVER OUTPUT
+
 ![server](https://github.com/Reklies/2a_Stop_and_Wait_Protocol/assets/147139232/f98e5de8-b152-41d3-8ceb-e89bb054b7d9)
 
 ## RESULT
